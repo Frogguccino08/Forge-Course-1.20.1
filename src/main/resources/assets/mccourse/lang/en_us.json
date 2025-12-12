@@ -1,0 +1,13 @@
+{
+  "creativetab.course_tab": "Course Tab",
+
+  "item.mccourse.sugilite": "Sugilite",
+  "item.mccourse.raw_sugilite": "Raw Sugilite",
+
+  "block.mccourse.sugilite_block": "Block of Sugilite",
+  "block.mccourse.raw_sugilite_block": "Block of Raw Sugilite",
+  "block.mccourse.deepslate_sugilite_ore": "Deepslate Sugilite Ore",
+  "block.mccourse.end_stone_sugilite_ore": "End Stone Sugilite Ore",
+  "block.mccourse.nether_sugilite_ore": "Nether Sugilite Ore",
+  "block.mccourse.sugilite_ore": "Sugilite Ore"
+}
